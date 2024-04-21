@@ -1,1 +1,1 @@
-# React Native AirBnB Clone with Clerk
+# React Native AirBnB Clone
